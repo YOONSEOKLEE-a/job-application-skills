@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tailored Jasoseo"
+  short_description: "근거 기반 경험 선택과 기업·직무 맞춤 자소서 작성·보관"
+  default_prompt: "$tailored-jasoseo 내 자료와 현재 채용 문항을 확인하고 기업·직무에 맞는 자소서를 작성해줘."

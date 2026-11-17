@@ -1,0 +1,17 @@
+# Personal working data and generated deliverables
+private-data/
+outputs/
+.env
+.env.*
+!.env.example
+*.clixml
+*.pem
+*.key
+*.docx
+*.pdf
+*.zip
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db

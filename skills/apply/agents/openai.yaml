@@ -1,0 +1,4 @@
+interface:
+  display_name: "apply"
+  short_description: "기업 채용 사이트 지원서 작성·전체 이력 누락 점검·제출 확인"
+  default_prompt: "$apply 크롬에 열린 기업 채용 공고를 확인하고 내 원본 프로필로 지원서를 작성해 제출해줘."
